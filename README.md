@@ -21,3 +21,7 @@ stack build
 stack exec 001-wolf-goat-cabbage
 ```
 
+002. Glove Selection
+```bash
+stack exec 002-glove-selection
+```
